@@ -37,3 +37,5 @@ robot.yaw.position.set(0,2,0);
 //lets place our wall directly in front of player
 wall.place({x:-4, y:2, z:-2});
 ```
+## License
+BSD
