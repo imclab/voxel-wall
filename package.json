@@ -1,7 +1,7 @@
 {
   "name": "voxel-wall",
   "version": "0.0.1",
-  "description": "Creates a wall using the voxel-engine",
+  "description": "Create walls for voxel.js games.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
     "voxel.js",
     "voxel",
     "voxel-engine",
-    "game"
+    "game",
+    "3D"
   ],
   "author": "Nick Martin",
   "license": "BSD"
