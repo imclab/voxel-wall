@@ -29,7 +29,7 @@ game.appendTo(container)
 var wall = require('voxel-wall')(game, { height: 5, width: 8, material : 'brick' })
 
 //lets make a player and have him/her stare at the new wall
-var createRobot = require('voxel-player')(world)
+var createRobot = require('voxel-player')(game)
 var robot = createRobot('robot.png')
 robot.possess()
 robot.yaw.position.set(0,2,0)
