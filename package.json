@@ -1,0 +1,18 @@
+{
+  "name": "voxel-wall",
+  "version": "0.0.1",
+  "description": "Creates a wall using the voxel-engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "voxel.js",
+    "voxel",
+    "voxel-engine",
+    "game"
+  ],
+  "author": "Nick Martin",
+  "license": "BSD"
+}
